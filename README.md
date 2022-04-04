@@ -1,2 +1,3 @@
 # Text-and-scrolling-views
-![scrolling_text](https://user-images.githubusercontent.com/50354069/161393603-e24528eb-4b5d-4f5d-9274-cd2d4b6809ef.gif)
+![scrolling_text](https://user-images.githubusercontent.com/50354069/161576467-ba77b488-15f7-4c18-bca9-ea9d8ec855b4.gif)
+
